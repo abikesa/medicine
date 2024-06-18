@@ -8,6 +8,6 @@
                                            3. Organelles
 
 
-### Dionysus 1, 2, 3
+### Dionysus [1](https://abikesa.github.io/trial/), [2](https://abikesa.github.io/trials/), [3](https://abikesa.github.io/clinicaltrials/)
 ### Sing O Muse! [4](https://www.economist.com/by-invitation/2024/06/17/ray-kurzweil-on-how-ai-will-transform-the-physical-world#)
 ### Apollo 5, 6
